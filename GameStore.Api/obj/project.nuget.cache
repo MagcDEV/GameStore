@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9JfWeki5djZl/ActFZ363iNaXLQOJhDA/2MOs7ueBsX5uO4XAyXooRsFCVvqz3fIbb920Plr9AxFcCDotY837Q==",
+  "dgSpecHash": "GFiz8xMcEFf6JL00DmooXRoF7i5VDAidnwVRycdZrPJPYZBodGdn+U1EENYitBy5xS21B4sTL5MgGnhUJEIBOQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\manue\\Documents\\workspaces\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "C:\\Users\\manue\\Documents\\workspaces\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manue\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\manue\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
