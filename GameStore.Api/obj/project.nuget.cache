@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1f7U1EyRHfdXgTi2422XnLJWQ6X5ijT0aMENyE9JSadgMX1kPRBqOiQho3I1qRLr1GtKyd5PRtYQDLumfup8gQ==",
+  "dgSpecHash": "N2mcoM0ilYOdn4KLztiQUb6g1A4yYAB50HsRoU1PdQwnOra1q6CZYe0L/Xb4EIXmi9OUqtlPVOkfloh1P8Cbqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\manue\\Documents\\workspace\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "c:\\Users\\manue\\Documents\\workspace\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manue\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\manue\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
